@@ -1,0 +1,15 @@
+{
+  "name": "Activity Tracking",
+  "short_name": "Tracking",
+  "start_url": "/Activity-Tracking/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4ca.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ]
+}
